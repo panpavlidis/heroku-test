@@ -1,1 +1,1 @@
-heroku ps
+web: gunicorn gettingstarted.wsgi
